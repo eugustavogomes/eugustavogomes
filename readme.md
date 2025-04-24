@@ -1,7 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 
- 💻 I'm Full-Stack Developer!<br/><br/>
+ 💻 I'm a Full-Stack Developer, with a solid foundation in technology and proven skills in teamwork, negotiation, and digital solutions. I'm currently seeking my first professional opportunity in the development field to apply my knowledge to real-world projects, build scalable solutions, and actively contribute to team growth. I'm committed to continuously improving my technical skills and building a strong, long-term career in the tech industry.!<br/><br/>
 
 <br/>
 
@@ -24,6 +24,6 @@
  
  <br/>
  <br>
- ## Find me around the web 🌎: <a href="https://github.com/sponsors/eugustavogomes"><img align="right" width="150" height="150" 
+ Find me around the web 🌎: <a href="https://github.com/sponsors/eugustavogomes"><img align="right" width="150" height="150" 
 
 - Sharing updates on <a href="https://www.linkedin.com/in/eusougustavogomes/">LinkedIn</a> 💼
