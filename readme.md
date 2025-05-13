@@ -1,7 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 
- 💻 I'm a Full-Stack Developer, with a solid foundation in technology and proven skills in teamwork, negotiation, and digital solutions. I'm currently seeking my first professional opportunity in the development field to apply my knowledge to real-world projects, build scalable solutions, and actively contribute to team growth. I'm committed to continuously improving my technical skills and building a strong, long-term career in the tech industry.!<br/><br/>
+ 💻 I am a Full-Stack Developer, passionate about technology and with skills in teamwork, negotiation, and digital solutions. I have experience in projects using Typescript, Javascript, NodeJs, and React, and I am seeking my first professional opportunity in the development field to apply my knowledge to real projects.<br/><br/>
 
 <br/>
 
