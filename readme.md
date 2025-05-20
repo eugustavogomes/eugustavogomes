@@ -2,9 +2,6 @@
 
 
  💻 I am a Full-Stack Developer, passionate about technology and with skills in teamwork, negotiation, and digital solutions. I have experience in projects using Typescript, Javascript, NodeJs, and React, and I am seeking my first professional opportunity in the development field to apply my knowledge to real projects.<br/><br/>
-
-<br/>
-
 ### Here's some of the stuff I like to use
 
 In the front-end
