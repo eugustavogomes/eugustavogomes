@@ -24,9 +24,5 @@ In the back-end:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
  </div>
- 
- <br/>
- <br>
  Find me around the web 🌎: <a href="https://github.com/sponsors/eugustavogomes"> 
-
-- Sharing updates on <a href="https://www.linkedin.com/in/eusougustavogomes/">LinkedIn</a> 💼
+  Sharing updates on <a href="https://www.linkedin.com/in/eusougustavogomes/">LinkedIn</a> 💼
