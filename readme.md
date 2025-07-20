@@ -1,7 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 
- 💻 I am a Full-Stack Developer, passionate about technology and with skills in teamwork, negotiation, and digital solutions. I have experience in projects using Typescript, Javascript, NodeJs, and React.<br/><br/>
+ 💻 I am a Full-Stack Developer, passionate about technology and with skills in teamwork, negotiation, and digital solutions. I have experience in projects using Typescript, Javascript, .NET, and React.<br/><br/>
 ### Here's some of the stuff I like to use
 
 In the front-end
