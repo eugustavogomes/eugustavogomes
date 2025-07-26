@@ -1,7 +1,11 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 
- 💻 I am a Full-Stack Developer, passionate about technology and with skills in teamwork, negotiation, and digital solutions. I have experience in projects using Typescript, Javascript, .NET, and React.<br/><br/>
+👨‍💻 Full Stack Developer with a focus on React for front-end and C# (.NET) for back-end. I have hands-on experience in real-world projects, applying concepts such as component-based architecture, REST API consumption, Git version control, and clean code practices.
+
+With experience in collaborative team environments, I have contributed to building efficient and well-structured solutions within agile workflows. My background in sales, digital project delivery, and client negotiations has strengthened my communication, adaptability, and problem-solving skills — qualities that I now apply to the development of robust and user-focused applications.
+
+I’m interested in projects involving .NET, React, and TypeScript, with a strong focus on developing scalable, well-architected applications that follow industry best practices.<br/><br/>
 ### Here's some of the stuff I like to use
 
 In the front-end
@@ -23,6 +27,7 @@ In the back-end:
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&labelColor=000000&logoColor=white) 
 
  </div>
  Find me around the web 🌎: <a href="https://github.com/sponsors/eugustavogomes"> 
