@@ -30,5 +30,5 @@ In the back-end:
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&labelColor=000000&logoColor=white) 
 
  </div>
- Find me around the web 🌎: <a href="https://github.com/sponsors/eugustavogomes"> 
+ Find me around the web 🌎: <a> 
   Sharing updates on <a href="https://www.linkedin.com/in/eusougustavogomes/">LinkedIn</a> 💼
