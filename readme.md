@@ -5,7 +5,7 @@
 
 With experience in collaborative team environments, I have contributed to building efficient and well-structured solutions within agile workflows. My background in sales, digital project delivery, and client negotiations has strengthened my communication, adaptability, and problem-solving skills — qualities that I now apply to the development of robust and user-focused applications.
 
-I’m interested in projects involving .NET, React, and TypeScript, with a strong focus on developing scalable, well-architected applications that follow industry best practices.<br/><br/>
+I’m interested in projects involving .NET/NodeJs, React, and TypeScript, with a strong focus on developing scalable, well-architected applications that follow industry best practices.<br/><br/>
 ### Here's some of the stuff I like to use
 
 In the front-end
