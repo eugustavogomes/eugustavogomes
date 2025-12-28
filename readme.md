@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | JavaScript & .NET Specialist**
 
 
-👨‍💻 Focus on React for front-end and C# (.NET) for back-end. I have hands-on experience in real-world projects, applying concepts such as component-based architecture, REST API consumption, Git version control, and clean code practices.
+Focus on React for front-end and C# (.NET) for back-end. I have hands-on experience in real-world projects, applying concepts such as component-based architecture, REST API consumption, Git version control, and clean code practices.
 
 With experience in collaborative team environments, I have contributed to building efficient and well-structured solutions within agile workflows. My background in sales, digital project delivery, and client negotiations has strengthened my communication, adaptability, and problem-solving skills — qualities that I now apply to the development of robust and user-focused applications.
 
