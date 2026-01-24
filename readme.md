@@ -2,8 +2,6 @@
 
 <samp>🚀 <b>Full Stack Developer | JavaScript & .NET Specialist</b></samp>
 
-<br/>
-
 <samp>Focus on <b>React</b> for front-end and <b>C# (.NET)</b> for back-end. I have hands-on experience in real-world projects, applying concepts such as component-based architecture, REST API consumption, Git version control, and clean code practices.</samp>
 
 <samp>With experience in collaborative team environments, I have contributed to building efficient and well-structured solutions within agile workflows. My background in sales, digital project delivery, and client negotiations has strengthened my communication, adaptability, and problem-solving skills — qualities that I now apply to the development of robust and user-focused applications.</samp>
@@ -34,5 +32,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
 </p>
-
----
