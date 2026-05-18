@@ -1,6 +1,6 @@
 # <samp>Hello</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-<samp>🚀 <b>Full Stack Developer | JavaScript & .NET Specialist</b></samp>
+<samp>🚀 <b>Software Developer</b></samp>
 
 <samp>Focus on <b>React</b> for front-end and <b>C# (.NET)</b> for back-end. I have hands-on experience in real-world projects, applying concepts such as component-based architecture, REST API consumption, Git version control, and clean code practices.</samp>
 
